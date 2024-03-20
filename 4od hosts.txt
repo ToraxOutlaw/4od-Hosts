@@ -1,0 +1,15 @@
+127.0.0.1  localhost
+::1  localhost
+
+# [4od]
+127.0.0.1 ads.channel4.com
+127.0.0.1 cdn.http.anno.channel4.com
+127.0.0.1 cdn.ss.anno.channel4.com
+127.0.0.1 channel4.com.112.207.net
+127.0.0.1 channel4.com.sc.omtrdc.net
+127.0.0.1 channel4.com.ssl.sc.omtrdc.net
+127.0.0.1 ic.channel4.com
+127.0.0.1 monitor.channel4.com
+127.0.0.1 sexperienceuk.channel4.com
+127.0.0.1 webstat.channel4.com
+127.0.0.1 webstats.channel4.com
